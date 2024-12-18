@@ -11,7 +11,7 @@ namespace StarFlight
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new MainForm()); // коммент
+            Application.Run(new MainForm()); // ГЄГ®Г¬Г¬ГҐГ­ГІ from GitHub
         }
     }
 }

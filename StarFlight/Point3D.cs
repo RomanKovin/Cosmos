@@ -9,7 +9,7 @@ namespace StarFlight
     /// <summary>
     /// Тип космического объекта
     /// </summary>
-    public enum ObjectType 
+    public enum ObjectType // Привет!!
     { 
         Star,
         Planet1,
